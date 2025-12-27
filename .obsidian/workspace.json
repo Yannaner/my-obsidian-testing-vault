@@ -209,12 +209,8 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "fb15969b2e1bebf5",
+  "active": "61b1537da93f0997",
   "lastOpenFiles": [
-    "Notes My notes.md",
-    "site/README.md",
-    "Testing my notes setup.md",
-    "publish.config.json",
     "site/public/assets",
     "site/public",
     "site/lib/pathUtil.ts",
@@ -224,6 +220,11 @@
     "site/content",
     "site/components/Sidebar.tsx",
     "site/components/NoteView.tsx",
+    "site/components",
+    "site/app/notes/[...slug]/page.tsx",
+    "site/README.md",
+    "Notes My notes.md",
+    "Testing my notes setup.md",
     "Welcome.md"
   ]
 }
