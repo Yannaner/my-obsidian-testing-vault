@@ -1,0 +1,16 @@
+{
+  "include": [
+    "notes"
+  ],
+  "exclude": [
+    ".obsidian",
+    "site",
+    "private",
+    "journal"
+  ],
+  "siteDir": "site",
+  "contentDir": "site/content",
+  "assetsDir": "site/public/assets",
+  "baseRoute": "/notes",
+  "slugStyle": "kebab"
+}
