@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/README.md",
+                "file": "Testing my notes setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Testing my notes setup"
             }
           }
         ],
@@ -209,10 +209,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "61b1537da93f0997",
+  "active": "fb15969b2e1bebf5",
   "lastOpenFiles": [
-    "Testing my notes setup.md",
     "Notes My notes.md",
+    "site/README.md",
+    "Testing my notes setup.md",
     "publish.config.json",
     "site/public/assets",
     "site/public",
@@ -223,7 +224,6 @@
     "site/content",
     "site/components/Sidebar.tsx",
     "site/components/NoteView.tsx",
-    "site/README.md",
     "Welcome.md"
   ]
 }
