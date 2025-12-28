@@ -2,5 +2,5 @@
   "githubRepoUrl": "https://github.com/Yannaner/my-obsidian-testing-vault",
   "deployedUrl": "my-obsidian-testing-vault.vercel.app",
   "enableGitPublish": true,
-  "autoSyncOnSave": false
+  "autoSyncOnSave": true
 }

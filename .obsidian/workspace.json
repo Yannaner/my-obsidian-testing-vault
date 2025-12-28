@@ -185,6 +185,7 @@
   },
   "active": "61b1537da93f0997",
   "lastOpenFiles": [
+    "site/vercel.json",
     "site/content/asdsad.md",
     "site/tsconfig.json",
     "site/public/assets",
@@ -220,7 +221,6 @@
     "site/node_modules/is-hexadecimal/readme.md",
     "site/node_modules/micromark-util-encode/readme.md",
     "site/node_modules/mdast-util-to-string/readme.md",
-    "site/node_modules/character-entities-legacy/readme.md",
     "site/node_modules/highlight.js/styles/pojoaque.jpg",
     "site/node_modules/highlight.js/styles/brown-papersq.png"
   ]
