@@ -1,4 +1,3 @@
-import type { ReactElement } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import remarkBreaks from 'remark-breaks';
@@ -9,7 +8,7 @@ export interface MarkdownRendererProps {
   content: string;
 }
 
-export function MarkdownRenderer({ content }: MarkdownRendererProps): ReactElement {
+export function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <ReactMarkdown
       remarkPlugins={[remarkGfm, remarkBreaks]}
@@ -17,5 +16,5 @@ export function MarkdownRenderer({ content }: MarkdownRendererProps): ReactEleme
     >
       {content}
     </ReactMarkdown>
-  ) as ReactElement;
+  );
 }
