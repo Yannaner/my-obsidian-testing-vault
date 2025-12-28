@@ -8,7 +8,7 @@ export interface MarkdownRendererProps {
   content: string;
 }
 
-export function MarkdownRenderer({ content }: MarkdownRendererProps): JSX.Element {
+export function MarkdownRenderer({ content }: MarkdownRendererProps) {
   return (
     <ReactMarkdown
       remarkPlugins={[remarkGfm, remarkBreaks]}
