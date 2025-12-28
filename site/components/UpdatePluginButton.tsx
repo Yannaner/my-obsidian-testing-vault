@@ -31,7 +31,7 @@ export function UpdatePluginButton() {
         <div className="modal-overlay" onClick={() => setShowModal(false)}>
           <div className="modal-content" onClick={(e) => e.stopPropagation()}>
             <div className="modal-header">
-              <h2>Update VaultSite</h2>
+              <h2>Update Vercel Publish</h2>
               <button
                 className="modal-close"
                 onClick={() => setShowModal(false)}
@@ -44,11 +44,11 @@ export function UpdatePluginButton() {
               </button>
             </div>
             <div className="modal-body">
-              <p>To update your VaultSite template to the latest version:</p>
+              <p>To update your Vercel Publish template to the latest version:</p>
               <ol>
                 <li>Open Obsidian</li>
                 <li>Open the Command Palette (Cmd/Ctrl + P)</li>
-                <li>Run: <code>VaultSite: Update Template</code></li>
+                <li>Run: <code>Vercel Publish: Update Template</code></li>
               </ol>
               <p className="modal-note">
                 <strong>Note:</strong> This will update the template files while preserving your content and customizations.

@@ -131,7 +131,7 @@ export function Sidebar({ tree, currentSlug }: SidebarProps) {
     <nav className="sidebar">
       <div className="sidebar-header">
         <Link href="/" className="site-title">
-          VaultSite
+          Vercel Publish
         </Link>
         <div className="sidebar-controls">
           <UpdatePluginButton />
