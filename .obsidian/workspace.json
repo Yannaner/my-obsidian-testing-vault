@@ -11,10 +11,14 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site/content/otes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "otes"
             }
           }
         ]
@@ -179,8 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "61b1537da93f0997",
+  "active": "74451799546a50c4",
   "lastOpenFiles": [
+    "site/content/otes.md",
+    "site/content/new",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
@@ -190,8 +196,6 @@
     "site/lib/markdown.tsx",
     "site/lib/markdown.ts",
     "site/lib/contentIndex.ts",
-    "site/lib",
-    "site/content",
     "site/README.md",
     "site/components/test.md",
     "site/content/more.md",
