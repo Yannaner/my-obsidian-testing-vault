@@ -179,8 +179,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "61b1537da93f0997",
+  "active": "74451799546a50c4",
   "lastOpenFiles": [
+    "site/components/test.md",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
@@ -191,10 +192,8 @@
     "site/lib/markdown.ts",
     "site/lib/contentIndex.ts",
     "site/lib",
-    "site/content",
     "site/README.md",
     "site/content/more.md",
-    "site/components/test.md",
     "site/content/asdsad.md",
     "site/node_modules/next/README.md",
     "site/node_modules/next/dist/compiled/regenerator-runtime/README.md",

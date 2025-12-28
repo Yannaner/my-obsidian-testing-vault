@@ -5,6 +5,6 @@
 	"minAppVersion": "0.15.0",
 	"description": "Turn your Obsidian vault into a browsable website hosted on Vercel with one-command publish.",
 	"author": "VaultSite Contributors",
-	"authorUrl": "https://github.com/yourusername/vaultsite",
+	"authorUrl": "https://github.com/vaultsite/vaultsite",
 	"isDesktopOnly": false
 }
