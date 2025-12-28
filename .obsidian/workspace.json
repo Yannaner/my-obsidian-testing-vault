@@ -11,14 +11,10 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/content/otes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "otes"
+              "title": "New tab"
             }
           }
         ]
@@ -183,20 +179,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "74451799546a50c4",
+  "active": "61b1537da93f0997",
   "lastOpenFiles": [
-    "site/content/otes.md",
-    "site/content/new",
+    "site/tsconfig.tsbuildinfo",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
     "site/package.json",
+    "site/package-lock.json",
     "site/next.config.mjs",
+    "site/next-env.d.ts",
     "site/lib/pathUtil.ts",
     "site/lib/markdown.tsx",
     "site/lib/markdown.ts",
-    "site/lib/contentIndex.ts",
+    "site/content/welcome.md",
     "site/README.md",
+    "site/content/otes.md",
     "site/components/test.md",
     "site/content/more.md",
     "site/content/asdsad.md",
@@ -220,8 +218,6 @@
     "site/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
     "site/node_modules/mdast-util-to-markdown/readme.md",
     "site/node_modules/micromark-core-commonmark/readme.md",
-    "site/node_modules/react-dom/README.md",
-    "site/node_modules/mdast-util-to-hast/readme.md",
-    "site/node_modules/micromark/readme.md"
+    "site/node_modules/react-dom/README.md"
   ]
 }
