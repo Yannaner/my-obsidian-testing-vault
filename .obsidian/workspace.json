@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "site/content/more.md",
+                "file": "site/components/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "more"
+              "title": "test"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "74451799546a50c4",
   "lastOpenFiles": [
     "site/content/more.md",
-    "site/content/more.md",
+    "site/components/test.md",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
@@ -221,7 +221,6 @@
     "site/node_modules/micromark-core-commonmark/readme.md",
     "site/node_modules/react-dom/README.md",
     "site/node_modules/mdast-util-to-hast/readme.md",
-    "site/node_modules/micromark/readme.md",
-    "site/node_modules/semver/README.md"
+    "site/node_modules/micromark/readme.md"
   ]
 }
