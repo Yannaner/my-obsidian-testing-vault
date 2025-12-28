@@ -14,37 +14,31 @@ export default function HomePage() {
         {allNotes.length > 0 ? (
           <div className="home-content">
             <h1>Welcome to Your Notes</h1>
-            <p>You have {allNotes.length} {allNotes.length === 1 ? 'note' : 'notes'} in your vault. Select from the sidebar or browse below.</p>
-
-            <div className="recent-notes">
-              <h2>All Notes</h2>
-              <div className="notes-grid">
-                {allNotes.map((note) => (
-                  <Link
-                    key={note.slug.join('/')}
-                    href={getNoteUrl(note.slug)}
-                    className="note-card"
-                  >
-                    <div className="note-card-title">{note.title}</div>
-                    {note.folder && (
-                      <div className="note-card-path">📁 {note.folder}</div>
-                    )}
-                  </Link>
+            <p>Select a note from the sidebar to get started, or browse below:</p>
+            <div className="notes-list">
+              <h2>Recent Notes ({allNotes.length})</h2>
+              <ul>
+                {allNotes.slice(0, 10).map((note) => (
+                  <li key={note.slug.join('/')}>
+                    <Link href={getNoteUrl(note.slug)}>
+                      {note.title}
+                    </Link>
+                    {note.folder && <span className="note-folder"> — {note.folder}</span>}
+                  </li>
                 ))}
-              </div>
+              </ul>
             </div>
           </div>
         ) : (
           <div className="empty-state">
             <h1>Welcome to VaultSite</h1>
-            <p>No notes found. Use the VaultSite plugin in Obsidian to sync your notes.</p>
+            <p>No notes found. Use the VaultSite plugin to sync your notes.</p>
             <div className="instructions">
               <h2>Getting Started</h2>
               <ol>
-                <li>Open Obsidian and make sure the VaultSite plugin is enabled</li>
+                <li>Open Obsidian and install the VaultSite plugin</li>
                 <li>Run the command: <code>VaultSite: Sync Notes</code></li>
-                <li>Then run: <code>VaultSite: Publish (Sync + Push)</code></li>
-                <li>Your notes will appear here after deployment completes</li>
+                <li>Your notes will appear here automatically</li>
               </ol>
             </div>
           </div>
