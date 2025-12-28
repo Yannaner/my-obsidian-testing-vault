@@ -11,14 +11,10 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/components/test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "74451799546a50c4",
+  "active": "61b1537da93f0997",
   "lastOpenFiles": [
-    "site/content/more.md",
-    "site/components/test.md",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
@@ -197,7 +191,10 @@
     "site/lib/markdown.ts",
     "site/lib/contentIndex.ts",
     "site/lib",
+    "site/content",
     "site/README.md",
+    "site/content/more.md",
+    "site/components/test.md",
     "site/content/asdsad.md",
     "site/node_modules/next/README.md",
     "site/node_modules/next/dist/compiled/regenerator-runtime/README.md",
