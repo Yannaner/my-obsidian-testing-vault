@@ -181,7 +181,6 @@
   },
   "active": "74451799546a50c4",
   "lastOpenFiles": [
-    "site/components/test.md",
     "site/tsconfig.json",
     "site/public/assets",
     "site/public",
@@ -192,7 +191,9 @@
     "site/lib/markdown.ts",
     "site/lib/contentIndex.ts",
     "site/lib",
+    "site/content",
     "site/README.md",
+    "site/components/test.md",
     "site/content/more.md",
     "site/content/asdsad.md",
     "site/node_modules/next/README.md",
