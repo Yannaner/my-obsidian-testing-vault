@@ -11,14 +11,10 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "site/content/cntent test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "cntent test"
+              "title": "New tab"
             }
           }
         ]
@@ -183,26 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "74451799546a50c4",
+  "active": "61b1537da93f0997",
   "lastOpenFiles": [
-    "site/content/cntent test.md",
-    "site/tsconfig.tsbuildinfo",
-    "site/tsconfig.json",
-    "site/public/assets",
-    "site/public",
-    "site/package.json",
-    "site/package-lock.json",
-    "site/next.config.mjs",
-    "site/next-env.d.ts",
-    "site/lib/pathUtil.ts",
-    "site/lib/markdown.tsx",
-    "site/content/welcome.md",
-    "site/README.md",
-    "site/content/sdasd.md",
-    "site/content/otes.md",
-    "site/components/test.md",
-    "site/content/more.md",
-    "site/content/asdsad.md",
+    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-mono-latin.woff2",
+    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-mono-latin-ext.woff2",
+    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-latin.woff2",
+    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-latin-ext.woff2",
+    "site/node_modules/next/dist/compiled/@vercel/og/yoga.wasm",
+    "site/node_modules/next/dist/compiled/@vercel/og/resvg.wasm",
+    "site/node_modules/next/dist/compiled/source-map08/mappings.wasm",
+    "site/node_modules/next/dist/compiled/@vercel/og/noto-sans-v27-latin-regular.ttf",
+    "site/node_modules/next/dist/compiled/webpack/webpack.d.ts",
+    "site/node_modules/next/web-vitals.d.ts",
+    "site/node_modules/next/types.d.ts",
     "site/node_modules/next/README.md",
     "site/node_modules/next/dist/compiled/regenerator-runtime/README.md",
     "site/node_modules/next/dist/compiled/react-refresh/README.md",
@@ -210,9 +199,9 @@
     "site/node_modules/next/dist/compiled/@babel/runtime/README.md",
     "site/node_modules/next/license.md",
     "site/node_modules/highlight.js/styles/brown-papersq.png",
-    "site/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
     "site/node_modules/highlight.js/VERSION_11_UPGRADE.md",
     "site/node_modules/highlight.js/VERSION_10_UPGRADE.md",
+    "site/node_modules/highlight.js/SUPPORTED_LANGUAGES.md",
     "site/node_modules/highlight.js/SECURITY.md",
     "site/node_modules/highlight.js/README.md",
     "site/node_modules/highlight.js/CHANGES.md",
@@ -222,6 +211,13 @@
     "site/node_modules/typescript/README.md",
     "site/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
     "site/node_modules/mdast-util-to-markdown/readme.md",
-    "site/node_modules/micromark-core-commonmark/readme.md"
+    "site/node_modules/micromark-core-commonmark/readme.md",
+    "site/node_modules/react-dom/README.md",
+    "site/node_modules/mdast-util-to-hast/readme.md",
+    "site/node_modules/micromark/readme.md",
+    "site/node_modules/semver/README.md",
+    "site/node_modules/property-information/readme.md",
+    "site/node_modules/sharp/README.md",
+    "site/node_modules/postcss/README.md"
   ]
 }
