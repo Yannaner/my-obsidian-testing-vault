@@ -11,10 +11,14 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site/content/test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -179,19 +183,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "61b1537da93f0997",
+  "active": "74451799546a50c4",
   "lastOpenFiles": [
-    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-mono-latin.woff2",
-    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-mono-latin-ext.woff2",
-    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-latin.woff2",
-    "site/node_modules/next/dist/esm/next-devtools/server/font/geist-latin-ext.woff2",
-    "site/node_modules/next/dist/compiled/@vercel/og/yoga.wasm",
-    "site/node_modules/next/dist/compiled/@vercel/og/resvg.wasm",
-    "site/node_modules/next/dist/compiled/source-map08/mappings.wasm",
-    "site/node_modules/next/dist/compiled/@vercel/og/noto-sans-v27-latin-regular.ttf",
-    "site/node_modules/next/dist/compiled/webpack/webpack.d.ts",
-    "site/node_modules/next/web-vitals.d.ts",
-    "site/node_modules/next/types.d.ts",
+    "site/content/test.md",
+    "site/content/Reference/Technical/TypeScript Tips.md",
+    "site/content/Reference/Technical/Git Commands.md",
+    "site/content/Projects/Web Development/Next.js Guide.md",
+    "site/app/notes/[...slug]/page.tsx",
+    "site/content/Reference/Technical",
+    "site/content/Projects/Web Development",
+    "site/content/Projects/VaultSite Plugin.md",
+    "site/content/Personal/Daily Notes.md",
+    "site/app/notes/[...slug]",
+    "site/public/assets",
+    "site/lib/pathUtil.ts",
+    "site/lib/markdown.tsx",
+    "site/lib/contentIndex.ts",
+    "site/content/Welcome.md",
+    "site/content/Reference",
+    "site/content/Projects",
+    "site/README.md",
+    "site/DEPLOYMENT.md",
     "site/node_modules/next/README.md",
     "site/node_modules/next/dist/compiled/regenerator-runtime/README.md",
     "site/node_modules/next/dist/compiled/react-refresh/README.md",
@@ -210,14 +222,6 @@
     "site/node_modules/typescript/SECURITY.md",
     "site/node_modules/typescript/README.md",
     "site/node_modules/@img/sharp-libvips-darwin-arm64/README.md",
-    "site/node_modules/mdast-util-to-markdown/readme.md",
-    "site/node_modules/micromark-core-commonmark/readme.md",
-    "site/node_modules/react-dom/README.md",
-    "site/node_modules/mdast-util-to-hast/readme.md",
-    "site/node_modules/micromark/readme.md",
-    "site/node_modules/semver/README.md",
-    "site/node_modules/property-information/readme.md",
-    "site/node_modules/sharp/README.md",
-    "site/node_modules/postcss/README.md"
+    "site/node_modules/mdast-util-to-markdown/readme.md"
   ]
 }

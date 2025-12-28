@@ -6,6 +6,7 @@ import { FolderNode } from '@/lib/contentIndex';
 import { getNoteUrl } from '@/lib/pathUtil';
 import { DarkModeToggle } from './DarkModeToggle';
 import { SearchBar } from './SearchBar';
+import { UpdatePluginButton } from './UpdatePluginButton';
 
 interface SidebarProps {
   tree: FolderNode;
@@ -132,7 +133,10 @@ export function Sidebar({ tree, currentSlug }: SidebarProps) {
         <Link href="/" className="site-title">
           VaultSite
         </Link>
-        <DarkModeToggle />
+        <div className="sidebar-controls">
+          <UpdatePluginButton />
+          <DarkModeToggle />
+        </div>
       </div>
       <div className="sidebar-search">
         <SearchBar onSearch={setSearchQuery} />
