@@ -11,10 +11,14 @@
             "id": "74451799546a50c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site/content/cntent test.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cntent test"
             }
           }
         ]
@@ -181,6 +185,7 @@
   },
   "active": "74451799546a50c4",
   "lastOpenFiles": [
+    "site/content/cntent test.md",
     "site/tsconfig.tsbuildinfo",
     "site/tsconfig.json",
     "site/public/assets",
@@ -191,7 +196,6 @@
     "site/next-env.d.ts",
     "site/lib/pathUtil.ts",
     "site/lib/markdown.tsx",
-    "site/lib/markdown.ts",
     "site/content/welcome.md",
     "site/README.md",
     "site/content/sdasd.md",
